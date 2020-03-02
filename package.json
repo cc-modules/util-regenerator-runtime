@@ -3,13 +3,6 @@
   "version": "1.0.0",
   "description": "The regenerator runtime",
   "main": "util-regenerator-runtime.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "ssh://git@code.vipkid.com.cn:3590/lingobus-fe/learning/util-regenerator-runtime.git"
-  },
   "author": "wangweihua@vipkid.com.cn",
   "license": "ISC"
 }
